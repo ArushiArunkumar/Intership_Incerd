@@ -1,0 +1,6 @@
+#head2{
+    /* Create an element with id head and verify that backgroud colour works on it as inline, external as well as using style tag  */
+    /* Using external */
+    background-color: lightblue;
+
+}

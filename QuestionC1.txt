@@ -1,0 +1,5 @@
+01 Create a website with a class red div which has a background colour of red and colour white
+02 Create an element with id head and verify that backgroud colour works on it as inline, external as well as using style tag
+03 Create a css class one and verify if it works on multiple elememts
+04 Create multiple CSS classes and verify that all of them work on the same element
+05 Have a look at MDN references
